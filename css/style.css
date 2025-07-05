@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1 {
+    height: 100vh;
+    width: 100%;
+}
+
+.bg1 {
+    background-image: url(../img/back2.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1-2 {
+    height: 67vh;
+    width: 55vw;
+    background: rgba(255, 255, 255, 0.253);
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.text-style1 {
+    height: 80%;
+    width: 90%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.sm-tstyle {
+    height: 50%;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.sm-tstyle2 {
+    height: 50%;
+    width: 90%;
+
+
+}
+
+.below-text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.input-text {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    font-size: 20px;
+    margin-top: 30px;
+
+}
+
+.text-1 {
+    font-size: 60px;
+}
+
+.text-2 {
+    font-size: 50px;
+}
+
+.text-3 {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.button {
+    background-color: #3574E0;
+    font-size: 25px;
+    border-radius: 60px;
+    color: white;
+    padding: 10px 10px;
+}
+
+input {
+    border: none;
+    border-bottom: solid black 1px;
+    outline: none;
+    font-size: 20px;
+}
+
+.section2 {
+    height: 100vh;
+    width: 100%;
+    background-color: blue;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+.setion2-1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+    padding-top: 50px;
+}
+
+.text-sty1 {
+    font-size: 70px;
+    font-weight: 70px;
+}
+
+.but1 {
+    border-radius: 50px;
+    font-size: 30px;
+    padding: 20px 20px;
+    background-color: black;
+    color: beige;
+    cursor: pointer;
+}
+
+.image-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 25px;
+
+}
+
+.section3 {
+    height: 100vh;
+    width: 100%;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+
+}
+
+#but2 {
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: #D1F0B1;
+    color:rgba(0, 0, 255, 0.671);
+    cursor: pointer;
+}
+
+.section3-1 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #D1F0B1;
+
+    
+}
