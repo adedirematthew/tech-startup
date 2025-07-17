@@ -104,7 +104,7 @@ input {
     border: none;
     border-bottom: solid black 1px;
     outline: none;
-    font-size: 2px;
+    font-size: 20px;
 }
 
 .section2 {
@@ -183,7 +183,7 @@ input {
     font-size: 40px;
     position: fixed;
     bottom: 0;
-    z-index: -1;
+    z-index: -;
 }
 
 .section3-1 {
